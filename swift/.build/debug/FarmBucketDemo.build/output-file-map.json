@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/master.swiftdeps"
+  },
+  "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/Sources/FarmBucketDemo/main.swift": {
+    "dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/main.d",
+    "object": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/main.swift.o",
+    "swiftmodule": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/main.swiftdeps",
+    "diagnostics": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/FarmBucketDemo.build/main.dia"
+  }
+}

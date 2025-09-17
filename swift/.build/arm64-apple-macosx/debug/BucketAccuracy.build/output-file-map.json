@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/master.swiftdeps"
+  },
+  "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/Sources/BucketAccuracy/main.swift": {
+    "dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/main.d",
+    "object": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/main.swift.o",
+    "swiftmodule": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/main.swiftdeps",
+    "diagnostics": "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/.build/arm64-apple-macosx/debug/BucketAccuracy.build/main.dia"
+  }
+}

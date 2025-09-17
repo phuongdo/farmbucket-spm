@@ -1,0 +1,5 @@
+// PLACEHOLDER: Add Google's farmhash.h and farmhash.cc here.
+// Get them from: https://github.com/google/farmhash
+// Files required:
+//   - farmhash.h
+//   - farmhash.cc

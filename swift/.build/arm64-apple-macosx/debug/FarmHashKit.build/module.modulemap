@@ -1,0 +1,4 @@
+module FarmHashKit {
+    umbrella "/Users/phuongdv/Developer/Lab/FarmBucket-SPM/swift/Sources/FarmHashKit/include"
+    export *
+}
